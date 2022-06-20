@@ -4,3 +4,5 @@
 2. [Collections](Collections/Main.md)
     - [Array](Collections/Array.md)
     - [Hash table](Collections/HashTable.md)
+    - [Sets](Collections/Sets.md)
+
