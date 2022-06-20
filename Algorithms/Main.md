@@ -1,4 +1,4 @@
 # Assessments
 
 
-1. [Time complexity](./TimeComplexity.md)
+1. [Time and space complexity](./TimeComplexity.md)
