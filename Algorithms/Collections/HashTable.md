@@ -10,4 +10,4 @@
 
 
 ## Links
-[Wiki](https://en.wikipedia.org/wiki/Hash_table)
+[Hash table - wikipedia](https://en.wikipedia.org/wiki/Hash_table)
