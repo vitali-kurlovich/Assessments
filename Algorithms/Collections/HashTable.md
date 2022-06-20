@@ -1,6 +1,6 @@
 # Hash Table
 
-1. What is hash?
+1. What is a hash?
 2. Hash table under the hud
 2. Search in a Hash table
 3. Mutations
