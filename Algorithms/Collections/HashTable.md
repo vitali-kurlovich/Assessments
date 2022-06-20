@@ -8,8 +8,8 @@
    - Deletion
    - Update
 
-___
-## Links
+---
+### Links
 
 1. [Hash function - wikipedia](https://en.wikipedia.org/wiki/Hash_function)
 2. [Hash table - wikipedia](https://en.wikipedia.org/wiki/Hash_table)
